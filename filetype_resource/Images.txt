@@ -1,0 +1,1 @@
+.png .jpg .jpeg .gif .tiff .bmp .ppm .pgm .pbm .webp .bpg .svg .dds

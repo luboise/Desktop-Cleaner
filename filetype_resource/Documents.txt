@@ -1,0 +1,1 @@
+.docx .pdf .pptx .doc .txt .docm .dotx .docb .xml .rtf .pub .dot .wbk .xls .xlt .xlm .xlsx .xlsm .xltx .xltm .ppt .pot .pps .pptx .pptm .potx .potm .ppam .ppsx .ppsm .sldx .sldm .xps

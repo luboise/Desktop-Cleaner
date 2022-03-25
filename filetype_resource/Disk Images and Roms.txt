@@ -1,0 +1,1 @@
+.iso .dmg .bin .rom .nds .nes .img .ccd .cue .mdf .mds .ecm .cso .cdi .gdi .fds .smc .sfc .md .smd .gen .gg .z64 .v64 .n64 .gb .gbc .gba .gcm .gcz .wbfs .wad .ngp .ngc .pce .dsv .sav .ps2 .mcr .mpk .eep .st0 .sta .srm .cg .glsl .hlsl .elf .pbp .dol .cfg .ini .dll
